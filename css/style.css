@@ -1,5 +1,5 @@
 body {
-  font-family: 'Lato', 'Helvetica', 'Verdana', sans-serif;
+  font-family: 'Rubik', sans-serif;
 }
 
 #container {
@@ -15,7 +15,6 @@ body {
   font-size: 30px;
   font-weight: 900;
   letter-spacing: 3px;
-  text-transform: uppercase;
 }
 
 section {
